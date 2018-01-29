@@ -1,5 +1,7 @@
 # Apache Sling Launchpad Contrib Testing
 
+![sling:contrib](https://img.shields.io/badge/sling-contrib-blue.svg)
+
 This module is part of the [Apache Sling](https://sling.apache.org) project.
 
 This module builds a Sling webapp using bundles from the trunk, and
